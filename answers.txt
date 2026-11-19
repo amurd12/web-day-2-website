@@ -1,0 +1,8 @@
+Code Inspection Questions:
+1. used the tag body to set the property backround color to #0f172a
+2. using the class selector "title" and the property color chnaged the colro of the text to #38bdf8
+3. when you hover over the button using the color property the text turns white
+4. Using the border porperty it creates a pink border around the card
+5. uder the h1 the font-size property to chnage the size of the text and the value assigned was 1.8rem
+6. To create rounded corners on the card the property used is border-radius
+
